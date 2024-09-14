@@ -2,6 +2,7 @@
 
 ## Project Overview
 This project dives deep into hotel reservation data, employing advanced data analysis techniques to uncover hidden patterns and provide actionable insights for the hospitality industry. By leveraging a rich dataset of booking information, we aim to optimize hotel operations, enhance customer satisfaction, and boost revenue.
+From kaggle https://www.kaggle.com/datasets/ahsan81/hotel-reservations-classification-dataset
 
 ## Key Questions Addressed
 1. What factors most strongly influence booking cancellations?
